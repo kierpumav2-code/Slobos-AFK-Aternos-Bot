@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ve_cho.aternos.me",
+    "ip": "ve_cho.aternos.me:35359",
     "port": 35359,
-    "version": "1.20.1",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
